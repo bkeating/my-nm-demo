@@ -5,7 +5,7 @@
   "license": "GPL-3.0",
   "proxy": "http://localhost:9000",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "faker": "^4.1.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
